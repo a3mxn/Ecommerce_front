@@ -192,7 +192,8 @@ body{
     font-family: 'ADLaM Display', cursive;
     text-align: center;
     font-size:5vw; 
-    /* margin-top: 5vh; */
+    margin-top: 2.5vw;
+    /* padding: 0; */
 }
 /* .view-all{
     margin-top: -8vh;
@@ -226,7 +227,7 @@ body{
 }
 .product-name{
     font-size: 1.8vw;
-    margin-bottom: 1.3vh;
+    margin-bottom: 1vw;
 }
 .product-name-nike{
     width: 20vw;
@@ -249,6 +250,7 @@ body{
     justify-content:space-evenly;
     /* height: 70vh; */
     /* margin: 2vh 10vw; */
+    padding: 5vw 0vw;
     font-size: 4vw;
     height: max-content;
     font-family: 'ADLaM Display', cursive;

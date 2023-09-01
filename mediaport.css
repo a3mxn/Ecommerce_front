@@ -14,12 +14,8 @@
     }
 
     .trending-items{
-        /* width: 24vw; */
-        /* height: 31vw; */
-        /* text-align: center; */
+        padding: 5vw 0vw;
         margin: 5vw;
-        /* background-color: wheat; */
-        /* font-size: 3vw; */
     }
 
     .catageories-item-btn{
@@ -42,6 +38,33 @@
         /* transform: scale(1.5); */
         height:23vw;
         width: 100%;
-        
+    }
+    .product-name{
+        font-size: 3vw;
+    }
+    .product-price{
+        font-size: 2.8vw;
+    }
+    .item-1{
+        font-size: 3vw;
+    }
+    .why-details-heading{
+        font-size: 3vw;
+        padding: 2vw 0 0 0;
+    }
+    .why-details-content{
+        font-size: 2vw;
+        padding: 1.5vw 0 0 0;
+    }
+    .footer-text-size{
+        font-size: 2vw;
+    }
+    .footer-item-heading{
+        font-size: 4vw;
+    }
+    .footer-item input{
+        margin-bottom: 0.5vw;
+        padding: 0.25vw 0.5vw;
+        font-size: 2vw;
     }
 }
