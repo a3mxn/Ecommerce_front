@@ -1,0 +1,18 @@
+<div class="grid-item header nav-bar">
+            <!-- //trending-deals //login //signup //catageories -->
+            <div class="nav-item icon">
+                <img src="./order.png" style="height: 10vh;width: 10vh;">
+                Apna<br>Bazaar
+            </div>
+            <div class="nav-item item-hvr">Catageories</div>
+            <div class="nav-item item-hvr">Trending Deals</div>
+            <div class="nav-item item-hvr">My Account</div>
+            <div class="nav-item item-hvr">Cart</div>
+            <div class="nav-item item-hvr">Log-in</div>
+            <div class="nav-item search">
+                <input type="text" placeholder="Enter Your Text"  class="search-box">
+                <button class="search-btn">Search</button>
+            </div>
+            <!-- <div class="nav-item"> -->
+            <!-- </div> -->
+        </div>
